@@ -1,19 +1,21 @@
-### Google Gemini Clone
+# Google Gemini Clone
 
-- Introduction to AI-Powered Chat Apps: Learn how to create a generative AI app similar to Google Gemini or ChatGPT using vanilla JavaScript. 🤖
-- Connecting with the Gemini API: Discover how to use the Gemini API to add AI capabilities to your app, allowing for natural language conversations and responses. 🌐
-- Step-by-Step JavaScript Implementation: Follow our detailed guide, from setting up your project to implementing AI-powered chat features using vanilla JavaScript. 💻
-- User-Friendly Interface: Design a sleek, responsive interface for an engaging chat experience, ensuring smooth interactions and real-time responses. 🌟
-- Optimizing Performance: Learn how to keep your AI chat app efficient, running smoothly across different devices and platforms. 📱
+- Pengantar Aplikasi Chat Berbasis AI: Pelajari cara membuat aplikasi AI generatif yang mirip dengan Google Gemini atau ChatGPT menggunakan JavaScript murni (vanilla JavaScript). 🤖
+- Menghubungkan dengan API Gemini: Temukan cara menggunakan API Gemini untuk menambahkan kemampuan AI ke dalam aplikasi Anda, memungkinkan percakapan dan respons dalam bahasa alami. 🌐
+- Implementasi menggunakan JavaScript murni. 💻
+- Antarmuka Ramah Pengguna: Rancang antarmuka yang menarik dan responsif untuk pengalaman chat yang menyenangkan, dengan interaksi yang lancar dan respons waktu nyata. 🌟
+- Mengoptimalkan Performa: Pelajari cara menjaga aplikasi chat AI Anda tetap efisien dan berjalan lancar di berbagai perangkat dan platform. 🚀
 
 ## Warning
-You need to get your own **API Key** (in video we showed how!) and replace it in script.js file on line 12 :
+Kamu perlu mendapatkan **API Key** milikmu sendiri dan menggantinya di file script.js pada baris ke-12.:
 
 ```javascript
-const GOOGLE_API_KEY = "YOUR_API_KEY";
+const GOOGLE_API_KEY = "Tempel Kode API kalian disini";
 ```
 
+Kalian bisa dapetin api key nya di: https://ai.google.dev/
+
 # Screenshot
-Here we have project screenshot :
+Preview web nya :
 
 ![screenshot](screenshoot.png)
